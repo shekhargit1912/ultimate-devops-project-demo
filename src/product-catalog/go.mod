@@ -1,6 +1,6 @@
 module github.com/opentelemetry/opentelemetry-demo/src/product-catalog
 
-go 1.22.7
+go 1.22.8
 
 toolchain go1.22.9
 
